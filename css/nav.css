@@ -46,3 +46,8 @@ nav .sideMenuButton {
     cursor: pointer;
     display: none;
 }
+img{
+    width: 400px;
+    height: auto
+    
+  }
